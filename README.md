@@ -15,17 +15,17 @@
 
 ### 👨‍💻 Sobre mí
 
-[cite_start]Soy un estudiante con un perfil híbrido: combino la base teórica del **Grado en Ingeniería en Sistemas de Información** con la práctica intensiva del **Ciclo Superior DAM**[cite: 6, 22].
+Soy un estudiante con un perfil híbrido: combino la base teórica del **Grado en Ingeniería en Sistemas de Información** con la práctica intensiva del **Ciclo Superior DAM**.
 
-- [cite_start]🔭 Actualmente estoy buscando **mis primeras prácticas profesionales (FCT)** para aplicar mis conocimientos en entornos reales[cite: 8].
-- [cite_start]📚 He pasado por la experiencia inmersiva de **Campus 42** (Fundación Telefónica)[cite: 20], donde reforcé mi lógica con C y el autoaprendizaje.
+- 🔭 Actualmente estoy buscando **mis primeras prácticas profesionales (FCT)** para aplicar mis conocimientos en entornos reales.
+- 📚 He pasado por la experiencia inmersiva de **Campus 42** (Fundación Telefónica), donde reforcé mi lógica con C y el autoaprendizaje.
 - 🎯 Mis intereses principales son: **Java, Bases de Datos y Desarrollo Móvil**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-[cite_start]Me muevo bien con estas herramientas y lenguajes:
+Me muevo bien con estas herramientas y lenguajes:
 
 <div align="center">
 
