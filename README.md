@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Antonio&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Dev%20Student%20%7C%20Java%20%7C%20Kotlin%20%7C%20Python&descAlignY=50)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Antonio&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Dev%20Student%20%7C%20Java%20%7C%20Kotlin%20%7C%20Python&descAlignY=55)
 
   ### 🚀 Estudiante de Ingeniería & Desarrollo Multiplataforma (DAM)
   
